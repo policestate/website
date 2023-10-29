@@ -1,3 +1,0 @@
-git config --global user.name "Admin"
-git config --global user.email "admin@policestate.pro"
-
