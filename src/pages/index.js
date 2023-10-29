@@ -7,6 +7,9 @@ const Home = () => {
   return (
     <div>
       <h1>Police State</h1>
+	  <p>
+             This site describes the British Police states, and evidence supporting its existence. 
+	  </p>
     </div>
   );
 };
